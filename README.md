@@ -42,12 +42,17 @@ make
 sudo make install
 ```
 
+## OSX/Linux - Homebrew
+```
+brew tap tseemann/bioinformatics-linux
+brew install panito
+```
+
+# Etymology
+pANIto has 'ani' in the middle.  In Spanish it means babylon.
+
 # Issues
 Submit questions to the [Issues page](https://github.com/sanger-pathogens/panito/issues)
 
 # License
 [GPLv3](https://raw.githubusercontent.com/sanger-pathogens/panito/master/LICENSE)
-
-# Etymology
-pANIto has 'ANI' in the middle (*Average Nucletoide Identity*).  In Spanish it means "babylon".
-
