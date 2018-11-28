@@ -1,6 +1,7 @@
 # pANIto
 Calculate genome wide average nucleotide identity (gwANI) for a multiFASTA alignment.  
-  
+
+[![Build Status](https://travis-ci.org/sanger-pathogens/panito.svg?branch=master)](https://travis-ci.org/sanger-pathogens/panito)      
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-brightgreen.svg)](https://github.com/sanger-pathogens/panito/blob/master/LICENSE)  
 
 ## Contents
